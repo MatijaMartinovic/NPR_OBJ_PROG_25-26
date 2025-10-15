@@ -1,1 +1,1 @@
-# NPR_OBJ_PROG_25-26
+# Repozitoriji za predavanja Napredno Objektno Programiranje
