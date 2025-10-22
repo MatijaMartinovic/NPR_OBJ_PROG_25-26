@@ -1,0 +1,27 @@
+package pckg_VJ_1_ZB;
+
+public class InputPanelData {
+
+    private double fstNum;
+    private double sndNum;
+    private ALG_OPERATION alg_operation;
+
+    public InputPanelData(double fst, double snd, ALG_OPERATION alg_operation){
+
+        this.alg_operation = alg_operation;
+        this.fstNum = fst;
+        this.sndNum = snd;
+    }
+
+    public Double getFstNum(){
+        return fstNum;
+    }
+
+    public Double getSndNum(){
+        return sndNum;
+    }
+
+    public ALG_OPERATION getAlgOperation(){
+        return alg_operation;
+    }
+}
